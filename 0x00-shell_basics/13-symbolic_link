@@ -1,0 +1,2 @@
+#!/bin/bash
+In -sT /bin/ls ./__/ls__
